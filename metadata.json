@@ -1,0 +1,6 @@
+{
+  "name": "Numerical Analysis — Lecture 1 Interactive Guide",
+  "description": "منصة تعليمية تفاعلية لشرح المحاضرة الأولى في التحليل العددي: المقدمة، الأخطاء، ومتسلسلات تايلور وماكلورين مع محاكيات رسومية وحلول الواجبات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
